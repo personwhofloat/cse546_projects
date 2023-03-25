@@ -20,7 +20,8 @@ S3 bucket names: `input-bucket-name` and `output-bucket-name`
 
 ## Member Tasks
 ### Truong Son Nguyen - (ASU ID: 1225266250)
- - I am responsible for programming the `handler.py` file which take event everytime user upload a video to input bucket and process it to identify the student in such video. Then querying for the student's information from the DynamoDB database, parse it as a csv file and save to the output bucket. 
+ - I am responsible for programming the handler.py file which takes events every time a user uploads a video to the input bucket and processes it to identify the student in such video. Then querying for the student's information from the DynamoDB database, parse it as a csv file and save to the output bucket.
+ 
 
 ### Abhradeep Roy – (ASU ID: ).
  - Task
