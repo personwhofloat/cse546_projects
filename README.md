@@ -7,7 +7,7 @@ Group members:
 |------|------------|------|
 |Truong Son Nguyen| 1225266250 | handler.py |
 | Abhradeep Roy | ID | Task |
-| Aman Jain| ID | Task | 
+| Aman Jain| 1224726750 | configuration management & testing | 
  
 
 <hr>
@@ -26,7 +26,8 @@ S3 bucket names: `input-bucket-name` and `output-bucket-name`
 ### Abhradeep Roy – (ASU ID: ).
  - Task
 ### Aman Jain  -  (ASU ID:  )
- - Task
+ - I mainly focussed on setting up AWS configuration and required resources for the project. For instance, I configured the required IAM roles to run lambda function. Additionally, I created an ECR repository for the lambda function where the docker image is pushed. I created a script to dump student_data.json data to the DynamoDB table. Furthermore, I worked on creating S3 buckets for input and output. When the setup was complete, I along with Abhradeep performed end to end testing to check the whole flow. 
+
  
  <hr>
  
