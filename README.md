@@ -12,9 +12,9 @@ Group members:
 
 <hr>
 
-DynamDB Table name: `student`
+DynamDB Table name: `name`
 
-S3 bucket names: `input-videos-bkt` and `output-videos-bkt`
+S3 bucket names: `input name` and `output name`
 
 <hr>
 
